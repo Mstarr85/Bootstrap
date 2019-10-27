@@ -1,10 +1,192 @@
+  .navbar-brand {
+    
+    margin-left: 17%;
+    margin-right: 935px;
+    color: white;
+    background:  #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding-bottom: 0;
+    padding-top: 0;
+  }
 
-.container {
-    width: auto;
-    max-width: 680px;
-    padding: 0 15px;
-  }
+  .navbar {
   
-  .footer {
-    background-color: #f5f5f5;
+    padding: 0;
+    border-bottom: solid #dddddd;
   }
+
+  .container1 {
+
+    background-repeat: round;
+    margin: -5px;
+    border: 1px solid  #dddddd;
+    margin-top: 50px;
+    margin-left: 17%;
+    margin-right: 17%;
+    height: 500px;
+   
+  
+  }
+
+  .cr {
+
+  background-color: #666666;
+  margin-left: 45%;
+  color: white;
+
+  }
+
+.container2 {
+
+  background: #666666;
+  margin-top: 50%;
+  border-top: solid  #4aaaa5; 
+  border-top-width: 10px; 
+ 
+
+} 
+
+.navbar-nav mr-auto {
+
+  margin-right: none;
+
+
+}
+
+.one {
+  margin-top: 7px;
+
+}
+
+.two {
+  margin-top: 7px;
+}
+
+.ul {
+  margin-right: none;
+} 
+
+.profile {
+
+  width: 100px;
+  height: 80px;
+}
+
+h2 {
+  color: #ffffff;
+  background-color: #4aaaa5;
+  border-color: #cccccc;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  width: 140px;
+  height: 35px;
+}
+
+#bodyCard {
+  padding-right: 50px;
+  width: 50%;
+  margin-left: 325px;
+  
+}
+
+#box {
+  height: 750px; 
+  width: 66%;
+  margin-top: 50px;
+  border: solid #cccccc;
+  margin-left: 285px;
+  
+}
+
+.card {
+
+  width: 200;
+
+}
+
+#button {
+
+  background-color: #4aaaa5; 
+        color: white;
+        border: #cccccc;
+        border-style: solid;
+        border-width: 1px;
+        height: 30px;
+        width: 80px;
+
+}
+
+.biltmore {
+
+  height: 100px;
+  width: 100px;
+  float: left;
+  
+}
+
+.pc {
+  height: 100px;
+  width: 100px;
+  float: bottom;
+  
+
+}
+.hh {
+  height: 100px;
+  width: 100px;
+}
+
+.lv {
+  height: 100px;
+  width: 100px;
+  }
+
+.mb {
+  height: 100px;
+  width: 100px;
+}
+.pc {
+  padding: 5px;
+  margin-top: -5px;
+}
+.banner {
+  position:relative;
+  width: 90%;
+}
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+ 
+    
+
+  
+    
+
+
+  
+
+
+   
+
+  
+
+
+
+  
