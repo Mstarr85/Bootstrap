@@ -2,6 +2,9 @@
 
 <img width="1440" alt="Screen Shot 2020-04-21 at 2 51 02 PM" src="https://user-images.githubusercontent.com/53281244/79902630-c6887a00-83df-11ea-8077-069d394971e3.png">
 
+
+<img width="1440" alt="Screen Shot 2020-04-21 at 2 51 25 PM" src="https://user-images.githubusercontent.com/53281244/79902639-c9836a80-83df-11ea-96f9-edebf0fe28a6.png">
+
 # Bootstrap
 
 This is a responsive website using bootstrap
