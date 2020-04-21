@@ -6,9 +6,12 @@ Getting Started
 -Start on the About page and click  on Portfolio  which will direct you to a gallery of work 
 -Click on Contact to send you Contact information
 
-Github Deployed Link
- https://mstarr85.github.io/Bootstrap/
+Github Repo Link
+https://github.com/Mstarr85/Bootstrap
 
+Github Deployed Link
+https://mstarr85.github.io/Bootstrap/
+ 
 About
 -This was created to showcase a portfolio 
 
