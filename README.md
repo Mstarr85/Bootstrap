@@ -13,7 +13,9 @@ This is a responsive website using Bootstrap to showcase a Portfolio
 
 ## How It Works
 
- * Start on the About page and click  on Portfolio  which will direct you to a gallery of work 
+ * Click on Github Deployed Link provided below
+
+ * User will be directed to the About page where they can click  on the Portfolio tab which will direct them to a gallery of work 
  
  * Click on Contact to send you Contact information
 
