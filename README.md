@@ -11,11 +11,19 @@
 
 This is a responsive website using Bootstrap to showcase a Portfolio
 
+## Installation Instructions 
+
+ * Clone Repo to your local machine
+ 
+ * Open HTML file with default browser
+ 
+               or
+               
+ * Click on Github Deployed Link below
+
 ## How It Works
 
- * Click on Github Deployed Link provided below
-
- * User will be directed to the About page where they can click  on the Portfolio tab which will direct them to a gallery of work 
+ * User will be directed to the About page where they can click  on the Portfolio tab which will direct them to a gallery of      work 
  
  * Click on Contact to send you Contact information
 
