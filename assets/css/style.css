@@ -1,18 +1,23 @@
   .navbar-brand {
     
     margin-left: 17%;
-    margin-right: 935px;
+    /* margin-right: 935px; */
     color: white;
     background:  #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    padding-bottom: 0;
-    padding-top: 0;
-  }
+    /* padding-bottom: 0;  */
+    /* padding-top: 0; */
+  } 
 
   .navbar {
   
     padding: 0;
     border-bottom: solid #dddddd;
+  }
+
+
+  .line-break{
+    padding: 8px;
   }
 
   .container1 {
@@ -46,12 +51,9 @@
 
 } 
 
-.navbar-nav mr-auto {
-
-  margin-right: none;
 
 
-}
+
 
 .one {
   margin-top: 7px;
