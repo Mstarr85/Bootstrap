@@ -3,9 +3,6 @@
     
 
   }
-
-  
-  
   .navbar-brand {
     
     margin-left: 30px;
@@ -24,7 +21,6 @@
    
     
   } 
-
   .navbar {
   
     padding: 0;
@@ -34,10 +30,20 @@
     font-family: 'Georgia', Times, 'Times New Roman', 'serif';
   
   }
-
-
 .nav-link{
   color: rgb(135, 135, 135);
+}
+.line-break{
+    padding: 8px;
+    color: rgb(235, 235, 235)
+  }
+
+
+
+
+.mb-3{
+  border: solid black;
+  width: 980px;
 }
 
 
@@ -50,12 +56,9 @@
 
 
 
-  .line-break{
-    padding: 8px;
-    color: rgb(235, 235, 235)
-  }
 
-  .container1 {
+
+.container1 {
 
     background-repeat: round;
     margin: -5px;
@@ -64,51 +67,31 @@
     margin-left: 17%;
     margin-right: 17%;
     height: 500px;
-   
-  
   }
-
-  .cr {
-
+.cr {
   background-color: #666666;
   margin-left: 45%;
   color: white;
-
-  }
-
+}
 .container2 {
-
   background: #666666;
   margin-top: 50%;
   border-top: solid  #4aaaa5; 
   border-top-width: 10px; 
- 
-
-} 
-
-
-
-
-
+ } 
 .one {
   margin-top: 7px;
-
 }
-
 .two {
   margin-top: 7px;
 }
-
 .ul {
   margin-right: none;
 } 
-
 .profile {
-
   width: 100px;
   height: 80px;
 }
-
 h2 {
   color: #ffffff;
   background-color: #4aaaa5;
@@ -124,34 +107,25 @@ h2 {
   margin-left: 325px;
   
 }
-
 #box {
   height: 750px; 
-  width: 66%;
+  width: 960px;
   margin-top: 50px;
   border: solid #cccccc;
   margin-left: 285px;
- 
-}
-
+ }
 .card {
-
-  width: 200;
-
+width: 200;
 }
-
 #button {
-
-  background-color: #4aaaa5; 
+background-color: #4aaaa5; 
         color: white;
         border: #cccccc;
         border-style: solid;
         border-width: 1px;
         height: 30px;
         width: 80px;
-
-}
-
+      }
 .biltmore {
 
   height: 100px;
