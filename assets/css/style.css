@@ -13,6 +13,8 @@
 
 .container-main{
   background-image: url("/Users/matthew/Desktop/Projects/During Bootcamp/Bootstrap/assets/images/ricepaper2.png");
+  min-height: calc(100vh - 146px);
+  padding-top: 50px;
 }
 
 
@@ -57,9 +59,10 @@
 
 
 .mb-3{
+ 
   border: 1px solid #dddddd;
   width: 960px;
-  margin: 30px 0px 200px 41px ;
+  margin: 0px 0px 0px 41px ;
   padding: 15px ;
   background-color: #ffffff;
   min-height: calc(60vh - -30px);
@@ -130,7 +133,7 @@ hr {
   color: white;
   text-align: center;
   height: 80px;
-  margin-top: 200px;
+  /* margin-top: 200px; */
   border-top: 8px solid #4aaaa5;
 }
 
