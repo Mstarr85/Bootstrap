@@ -1,3 +1,8 @@
+  html{
+    height: 100%;
+  }
+  
+  
   body{
     line-height: 1.5em;
     
@@ -45,9 +50,12 @@
 .mb-3{
   border: 1px solid #dddddd;
   width: 960px;
-  margin: 30px 0px 0px 41px ;
-  padding: 15px;
+  margin: 30px 0px 200px 41px ;
+  padding: 15px ;
   background-color: #ffffff;
+  min-height: calc(60vh - -30px);
+  
+
 
 }
 
@@ -101,13 +109,15 @@ hr {
 
 
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
+  /* position: fixed; */
+  /* left: 0; */
+  /* bottom: 0; */
+  /* width: 100%; */
   background-color: red;
   color: white;
   text-align: center;
+  height: 80px;
+  margin-top: 200px;
 }
 
 
