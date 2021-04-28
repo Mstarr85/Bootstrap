@@ -280,14 +280,20 @@ margin-left: 33px;
     text-align: center;
     height: 75px;
     padding: 12px 20px 5px 20px;
+    margin-left: 0px;
   }
 .navbar-nav{
   height: 45px;
   
 }
 
+.nav-link-container{
+  margin-left: 0px;
+}
+
 .nav-link{
   padding: 0px;
+
 }
 
 .line-break{
