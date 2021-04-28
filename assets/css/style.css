@@ -1,5 +1,5 @@
   body{
-    line-height: 3em;
+    line-height: 1.5em;
     
     
 
@@ -23,7 +23,7 @@
     
   } 
   .navbar {
-  
+    line-height: 3em;
     padding: 0;
     border-bottom: solid #dddddd;
     border-width: 2px;
@@ -298,6 +298,25 @@ margin-left: 33px;
 
 .line-break{
   padding: 0px 8px 0px 8px;
+}
+
+.mb-3{
+  max-width: 570px;
+  margin: 35px 30px 0px 45px;
+}
+
+hr{
+  max-width: 538px;
+  margin: 20px 0px 0px 0px;
+}
+.form-control {
+
+  max-width: 538px;
+}
+.form-label{
+  margin: 5px 0px 0px 0px;
+  
+
 }
 }
 
