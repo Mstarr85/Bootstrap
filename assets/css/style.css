@@ -8,8 +8,15 @@
     line-height: 1.5em;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     
-
   }
+    
+
+.container-main{
+  background-image: url("/Users/matthew/Desktop/Projects/During Bootcamp/Bootstrap/assets/images/ricepaper2.png");
+}
+
+
+  
   .navbar-brand {
     
     margin-left: 30px;
