@@ -54,6 +54,7 @@
 .header-contact{
   color: #4aaaa5;
   background-color: #ffffff;
+
 }
 
  
@@ -265,6 +266,12 @@ margin-left: 33px;
 
  .nav-link-container{
    margin-left: 200px;
+ }
+
+ 
+  .form-label{
+    margin: 20px 0px 0px 0px;
+    
    
  }
 }
