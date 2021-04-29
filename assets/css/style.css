@@ -133,7 +133,7 @@ hr {
   background-color: #666666;
   color: white;
   text-align: center;
-  height: 80px;
+  height: 83px;
   /* margin-top: 200px; */
   border-top: 8px solid #4aaaa5;
 }
@@ -268,6 +268,7 @@ margin-right: 15px;
 .mb-3 {
 
   max-width: 600px;
+  
 }
 
 h3 {
@@ -351,18 +352,19 @@ margin-left: 33px;
   padding: 0px 8px 0px 8px;
 }
 
+
 .mb-3{
-  max-width: 570px;
+  max-width: 555px;
   margin: 35px 30px 0px 45px;
 }
 
 hr{
-  max-width: 538px;
+  max-width: 518px;
   margin: 20px 0px 0px 0px;
 }
 .form-control {
 
-  max-width: 538px;
+  max-width: 520px;
 }
 .form-label{
   margin: 5px 0px 0px 0px;
