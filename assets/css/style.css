@@ -15,6 +15,7 @@
   background-image: url("/Users/matthew/Desktop/Projects/During Bootcamp/Bootstrap/assets/images/ricepaper2.png");
   min-height: calc(100vh - 146px);
   padding-top: 50px;
+  padding-bottom: 200px;
 }
 
 
@@ -65,7 +66,7 @@
   margin: 0px 0px 0px 41px ;
   padding: 15px ;
   background-color: #ffffff;
-  min-height: calc(60vh - -30px);
+  min-height: calc(55vh);
   
 
 
@@ -138,8 +139,9 @@ hr {
 }
 
 .footer p {
-  padding-top: 22px;
+  padding: 25px;
   font-size: 12px;
+  text-align: center;
 
 }
 
