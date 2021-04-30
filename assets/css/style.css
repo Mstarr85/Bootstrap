@@ -8,7 +8,7 @@
   }
 
   .container-main{
-    background-image: url("assets/images/ricepaper2.png");
+    background-image: url(../images/ricepaper2.png);
     min-height: calc(100vh - 146px);
     padding-top: 50px;
     padding-bottom: 200px;
