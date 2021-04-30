@@ -8,7 +8,7 @@
   }
 
   .container-main{
-    background-image: url("/Users/matthew/Desktop/Projects/During Bootcamp/Bootstrap/assets/images/ricepaper2.png");
+    background-image: url("assets/images/ricepaper2.png");
     min-height: calc(100vh - 146px);
     padding-top: 50px;
     padding-bottom: 200px;
@@ -134,10 +134,19 @@
 
   .container-portfolio{
     border: 3px solid;
+    max-width: 960px;
 }
 
-  .col-sm-6 {
+  .row div {
     border: 1px solid;
+    padding: 100px;
+    width: 300px;
+    
+  }
+
+  img {
+    height: 50px;
+    width: 50px;
   }
 
 
