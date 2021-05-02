@@ -64,6 +64,7 @@
   .header-contact{
     color: #4aaaa5;
     background-color: #ffffff;
+    font-weight:600;
 }
   
   #exampleFormControlTextarea1{
@@ -142,9 +143,20 @@
     margin: 40px 0px 20px 43px;
     padding-left: 3px;
     background-color: #ffffff;
- 
+    min-height: 680px;
+   
 }
 
+  .header-container{
+
+    padding: 20px 0px 0px 10px;
+    
+  }
+
+  .contact{
+    max-width: 638px;
+    margin: 20px 17px 10px 8px;
+  }
   .row div {
     border: 1px solid;
     padding: 10px;
@@ -161,8 +173,8 @@
 
   img {
     float: left;
-    height: 150px;
-    width: 270px;
+    height: 120px;
+    width: 250px;
   }
 
   
