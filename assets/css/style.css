@@ -141,6 +141,7 @@
     max-width: 670px;
     margin: 40px 0px 20px 43px;
     padding-left: 3px;
+    background-color: #ffffff;
  
 }
 
@@ -160,7 +161,7 @@
 
   img {
     float: left;
-    height: 200px;
+    height: 150px;
     width: 270px;
   }
 
