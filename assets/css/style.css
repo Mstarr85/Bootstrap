@@ -231,7 +231,7 @@
   max-width: 680px;
   margin: 40px 0px 20px 46px;
   
- 
+}
 
  
 }
@@ -290,6 +290,51 @@
   .form-label{
     margin: 5px 0px 0px 0px;
 }
+
+.container-portfolio{
+ 
+  max-width: 590px;
+  margin: 40px 0px 20px 26px;
+  
+}
+
+.row div {
+  padding: 6px 0px 0px 0px;
+  width: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 14px 14px 14px 165px;
+}
+
+img {
+  height: auto;
+  width: 402px;
+  padding: none;
+
+}
+
+#rpc-img{
+  height: auto;
+  width: 402px;
+  padding: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 14px 14px 14px 105px;
+}
+
+.header-container{
+
+  padding: 20px 0px 0px 90px;
+  
+}
+
+.contact{
+  max-width: 403px;
+  margin: 20px 17px 10px 90px;
+}
+
 }
 
 
