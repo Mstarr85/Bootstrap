@@ -136,7 +136,7 @@
   .background-wrapper{
     background-image: url(../images/ricepaper2.png);
     padding: 5px 0px 20px 0px;
-  }
+}
   .container-portfolio{
     border: 1px solid #dddddd;;
     max-width: 640px;
@@ -144,10 +144,6 @@
     padding: 3px 0px 40px 0px;
     background-color: #ffffff;
     min-height: 680px;
-
-    
-   
-   
 }
 
   .header-container{
@@ -157,7 +153,7 @@
   .contact{
     max-width: 581px;
     margin: 20px 17px 10px 20px;
-  }
+}
   .row div {
     padding: 6px 0px 0px 30px;
     width: 280px;
@@ -165,26 +161,13 @@
     align-items: center;
     justify-content: center;
     margin: 14px;
-
-
-
-    
-
-  }
+}
 
   img {
     height: 205px;
     width: 272px;
     padding: none;
-
-
- 
-  
-    
-    
-  }
-
-  
+}
 
   div.img-label{
     font-family: 'Georgia', Times, 'Times New Roman', 'serif';
@@ -196,7 +179,30 @@
     margin-top: 155px;
     height: 50px;
     padding-left: 0px;
-  }
+}
+
+/* About me page */
+
+.container-about{
+  border: 1px solid red;
+  max-width: 900px;
+  margin: 20px;
+  padding: 20px;
+  /* line-height: 1em; */
+}
+
+.profile{
+  float: left;
+  width: 200px;
+  height: auto;
+  padding: 0px 20px 5px 0px;
+}
+
+.container-about p{
+
+  float: left;
+ 
+}
 
   /* Media Queries */
 
