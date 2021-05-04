@@ -184,13 +184,19 @@
 /* About me page */
 
 .container-about{
-  border: 1px solid red;
+  border: 1px solid #dddddd;
   max-width: 900px;
-  margin: 20px;
+  margin: 30px 0px 200px 42px;
   padding: 20px;
   /* line-height: 1em; */
+  background-color: #ffffff;
+  min-height: calc(55vh);
+
 }
 
+.container-about h3 {
+  margin: 10px 0px 25px 0px;
+}
 .profile{
   float: left;
   width: 200px;
@@ -202,6 +208,10 @@
 
   float: left;
  
+}
+.container-about hr{
+  width: 850px;
+  margin: 20px 0px 25px 0px;
 }
 
   /* Media Queries */
