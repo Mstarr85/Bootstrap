@@ -309,8 +309,8 @@
 
   .container-portfolio{
   
-    max-width: 590px;
-    margin: 40px 0px 20px 26px;
+    max-width: 480px;
+    margin: 40px 0px 20px 80px;
     
 }
 
@@ -320,34 +320,46 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 14px 14px 14px 165px;
+    margin: 14px 14px 14px 111px;
 }
 
   img {
-    height: auto;
+    height: 268px;
     width: 402px;
     padding: none;
 
 }
+div.img-label{
+  font-family: 'Georgia', Times, 'Times New Roman', 'serif';
+  font-size: 20px;
+  background-color: #4aaaa5;
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  min-width: 402px;
+  margin: 200px 0px 0px 0px;
+  height: 50px;
+  padding-left: 0px;
+}
 
   #rpc-img{
-    height: auto;
+    height: 204;
     width: 402px;
     padding: none;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 14px 14px 14px 105px;
+    margin: 14px 14px 14px 50px;
 }
 
   .header-container{
-    padding: 20px 0px 0px 90px;
+    padding: 20px 0px 0px 35px;
     
 }
 
   .contact{
     max-width: 403px;
-    margin: 20px 17px 10px 90px;
+    margin: 20px 17px 10px 36px;
 }
 }
 
