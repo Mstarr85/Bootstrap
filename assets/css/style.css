@@ -275,6 +275,13 @@
       max-width: 625px;
       margin: 40px 0px 20px 70px;
 }
+
+.container-about{
+  
+  max-width: 700px;
+  margin: 10px 0px 0px 35px;
+}
+
 }
 
   @media (max-width: 640px) {
@@ -379,6 +386,27 @@ div.img-label{
   .contact{
     max-width: 403px;
     margin: 20px 17px 10px 36px;
+}
+
+.container-about{
+  
+  max-width: 600px;
+  margin: 10px 0px 0px 20px;
+}
+.profile{
+  
+  width: 570px;
+  height: auto;
+  padding: 0px 10px 20px 0px;
+}
+
+.container-about hr{
+  max-width: 558px;
+  margin: 20px 0px 25px 0px;
+}
+
+.container-about {
+  padding-bottom: 30px;
 }
 }
 
