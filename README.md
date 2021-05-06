@@ -13,7 +13,7 @@ This is a responsive website using Bootstrap to showcase a Portfolio
  
  * Open HTML file with default browser
  
-_**or**_
+    _**or**_
                
  * Click on Github Deployed Link below
 
