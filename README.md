@@ -2,7 +2,7 @@
 
 
 # Bootstrap
-
+![ScreenShot](./assets/images/screenshot.jpg)
 ## Description
 
 This is a responsive website using Bootstrap to showcase a Portfolio
