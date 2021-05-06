@@ -1,4 +1,4 @@
-<img width="1440" alt="Screen Shot 2020-04-21 at 2 50 34 PM" src="https://user-images.githubusercontent.com/53281244/79902595-bc667b80-83df-11ea-86b7-3d056f0d4892.png">
+
 
 
 # Bootstrap
