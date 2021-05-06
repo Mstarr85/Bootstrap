@@ -44,6 +44,6 @@ Matthew Starr
 
 ## License
 
-Copyright (c) Matthew Starr. All rights reserved;
+Copyright (c) Matthew Starr. All rights reserved.
 
 Licensed under the [MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt) license.
